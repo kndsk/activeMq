@@ -23,6 +23,7 @@
 				<value>classpath*:config/quartz.properties</value>
 				<value>classpath*:config/solr.properties</value>
 				<value>classpath*:config/globals.properties</value>
+				<value>classpath*:config/redis.properties</value>
 			</list>
 		</property>
 	</bean>
